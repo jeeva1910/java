@@ -1,0 +1,6 @@
+{
+  "name": "Digital Library Management System",
+  "description": "A complete digital library management system with student and administrator portals, book catalog, circulation, reservations, fines, digital resources, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
